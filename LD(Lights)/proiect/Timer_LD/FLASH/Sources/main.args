@@ -1,0 +1,11 @@
+-Ms
+-I"$(MCUToolsBaseDirEnv)/lib/rs08c/include"
+-I"$(MCUToolsBaseDirEnv)/lib/hc08c/device/include"
+-I"$(MCUToolsBaseDirEnv)/lib/hc08c/include"
+-I"$(MCUToolsBaseDirEnv)/lib/hc08c/device/asm_include"
+-BfaTSRON
+-Qvtpnone
+-F2
+-ViewHidden
+-WmsgFob"%f%e:%l:%k:%d %m\n"
+-OaAddr

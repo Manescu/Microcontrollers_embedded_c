@@ -1,0 +1,9 @@
+-M
+-ViewHidden
+-WmsgFob"%f%e:%l:%k:%d %m\n" 
+-Add("$(ProjDirPath)/FLASH/Sources/IL_c.obj"
+"$(ProjDirPath)/FLASH/Sources/MCU_init_c.obj"
+"$(ProjDirPath)/FLASH/Sources/main_c.obj"
+"$(ProjDirPath)/FLASH/Sources/timer_c.obj"
+"$(ProjDirPath)/FLASH/Project_Settings/Startup_Code/start08_c.obj"
+"$(ProjDirPath)/FLASH/Lib/mc9s08aw60_c.obj" )
